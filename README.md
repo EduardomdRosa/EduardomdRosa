@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Machado da Rosa 👋
 
-- 🙋‍♂️ Busco de uma primeira oportunidade na área da tecnologia, metalúrgico iniciei os estudos de Análise e Desenvolvimento de Sistemas na instituição Estácio de Sá e concluí o curso de FullStack da escola TargetTrust em Porto Alegre. 
+- 🙋‍♂️ Busco uma primeira oportunidade na área da tecnologia, metalúrgico iniciei os estudos de Análise e Desenvolvimento de Sistemas na instituição Estácio de Sá e concluí o curso de FullStack da escola TargetTrust em Porto Alegre. 
 - 🔭 Atualmente procuro estágio na programação.
 - 🌱 Sempre buscando ser mais proativo e mais responsável profissionalmente, busco uma chance de ingressar na área da TI para continuar evoluindo.
 
